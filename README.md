@@ -1,11 +1,14 @@
 
 I. Course Title: 
+          
           Systems Analysis and Design
 
 II. Course Number: 
+          
           ITEC 369
 
 III.Course Description: 
+          
           This course will cover the analysis, design, development and deployment of information systems.
 
 IV. Detailed Description of Content of the Course:
