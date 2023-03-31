@@ -1,4 +1,4 @@
-### Systems-Analysis-and-Design--Information Technology 369
+### Systems-Analysis-and-Design   Information Technology 369
 
 I. Course Title: Systems Analysis and Design
 
