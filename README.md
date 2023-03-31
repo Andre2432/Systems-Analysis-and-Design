@@ -33,11 +33,11 @@ VI. Detailed Description of Content of the Course:
                 
                 5) Version Control in a team based environment.
                   
-     VI. Detailed Description of Conduct of Course:
+ VI. Detailed Description of Conduct of Course:
      
                       This course will be taught in lecture format. Often, the course will employ student presentations.
                       
-      VII. Goals and Objectives of the Course:
+ VII. Goals and Objectives of the Course:
                       
                       Students who complete this course will be able to:
                               
@@ -75,6 +75,6 @@ VI. Detailed Description of Content of the Course:
                               
                               Students will be able to reflect on how the skills they learn in this class will apply to professional roles.
                               
-       VIII. Assessment Measures:
+ VIII. Assessment Measures:
 
                 Assessment of student achievement is measured by written tests, written assignments and through at least one team based project and or          homework assignments completed outside of class.  All of which will be used to measure each student’s performance.
