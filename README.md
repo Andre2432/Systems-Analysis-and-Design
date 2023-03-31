@@ -1,9 +1,12 @@
 
-I. Course Title: Systems Analysis and Design
+I. Course Title: 
+          Systems Analysis and Design
 
-II. Course Number: ITEC 369
+II. Course Number: 
+          ITEC 369
 
-III.Course Description: This course will cover the analysis, design, development and deployment of information systems.
+III.Course Description: 
+          This course will cover the analysis, design, development and deployment of information systems.
 
 IV. Detailed Description of Content of the Course:
 
@@ -77,4 +80,4 @@ IV. Detailed Description of Content of the Course:
                               
  VII. Assessment Measures:
 
-Assessment of student achievement is measured by written tests, written assignments and through at least one team based project and or homework assignments completed outside of class.  All of which will be used to measure each student’s performance.
+          Assessment of student achievement is measured by written tests, written assignments and through at least one team based project and or homework assignments completed outside of class.  All of which will be used to measure each student’s performance.
